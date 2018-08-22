@@ -1,5 +1,2 @@
 # teste
 teste
-
-abc
-efg
